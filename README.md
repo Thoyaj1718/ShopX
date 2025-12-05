@@ -1,5 +1,5 @@
 # ShopX – E‑Commerce Application 🛒
-Live at : https://shopxbythoyaj.netlify.app/login
+Live at : https://shopxbythoyaj.netlify.app/
 
 ShopX is a React‑based e‑commerce web app inspired by Nxt Trendz projects.  
 It includes authentication, protected routes, products, cart management, and a payment popup with Cash on Delivery.
@@ -39,7 +39,7 @@ git clone https://github.com/Thoyaj1718/ShopX.git
 cd ShopXinstall dependenciesnpm installstart development servernpm start
 
 
-The app runs at http://localhost:3000.
+The app runs at https://shopxbythoyaj.netlify.app/
 
 ## 🔐 Test Credentials
 
